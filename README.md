@@ -4,7 +4,7 @@
 </p>
 <p>Threat hunting and monitoring tool to identify malicious redirections within static webpage content.</p>
 </>
-<p>Tool created to support SANS WAPT Gold certification research.  Tool enables threat hunting and monitoring capabilities for those with limited resouces.</p>
+<p>Tool created to support SANS WAPT Gold certification research.  Enables threat hunting and monitoring capabilities for those with limited resouces.</p>
 </>
 <p>Prerequisites:
 	<table class="w3-table">
